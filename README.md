@@ -3,6 +3,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+![day2](https://user-images.githubusercontent.com/48913682/95306856-d4439600-087f-11eb-9151-14d3144873aa.PNG)
+![proceed to check](https://user-images.githubusercontent.com/48913682/95306860-d574c300-087f-11eb-9711-a3d0b2a1f78b.PNG)
+![airbnb-clone](https://user-images.githubusercontent.com/48913682/95306904-e58ca280-087f-11eb-8407-6f66af2294e0.PNG)
+![amazon home](https://user-images.githubusercontent.com/48913682/95306925-eae9ed00-087f-11eb-99d4-5f180e20901d.PNG)
+![amazon order](https://user-images.githubusercontent.com/48913682/95306935-ef160a80-087f-11eb-981f-d8eeb319e65f.PNG)
+
 
 ### `npm start`
 
